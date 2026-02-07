@@ -1,1 +1,1 @@
-# KRM-PANEL
+npm install -g firebase-tools
